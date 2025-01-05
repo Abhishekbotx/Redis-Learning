@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build directories
+/dist/
+/build/
+/public/
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Next.js build output
+.next/
+
+# TypeScript build
+*.tsbuildinfo
+
+# React Native
+*.hprof
+*.js.map
+
+# Coverage
+coverage/
+
+# JetBrains
+*.iml
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
